@@ -40,13 +40,13 @@ svg {
   background-color: #cbe4bd;
 }
 
-.kick-pad:active {
+.kick-pad.active {
   background-color: #8bd3e0;
 }
-.snare-pad:active {
+.snare-pad.active {
   background-color: #fa927b;
 }
-.hihat-pad:active {
+.hihat-pad.active {
   background-color: #abdd8f;
 }
 
