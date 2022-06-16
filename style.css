@@ -140,7 +140,7 @@ select {
   }
 }
 
-@media screen and (max-width: 933px) {
+@media screen and (max-width: 414px) {
   .kick-track,
   .snare-track,
   .hihat-track {
