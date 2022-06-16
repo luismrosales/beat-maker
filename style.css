@@ -139,3 +139,27 @@ select {
     transform: scale(1.2);
   }
 }
+
+@media screen and (max-width: 933px) {
+  .kick-track,
+  .snare-track,
+  .hihat-track {
+    display: block;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: 1rem;
+  }
+
+  .pad {
+    height: 3rem;
+  }
+  .controls {
+    margin: 1.5rem 1rem;
+  }
+  .tempo p {
+    margin: 0;
+  }
+  .play {
+    margin: 0.5rem;
+  }
+}
